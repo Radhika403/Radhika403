@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am Radhika (She/Her). I am currently a student pursuing BTech in Computer Science with Artificial Intelligence. I am a tech enthusiast who is exploring and learning python, Java, Web-Devlopment, ML and Data Science.
+
+[![@radhikabansal403's Holopin board](https://holopin.me/radhikabansal403)](https://holopin.io/@radhikabansal403)
+
+
 
 <!--
 **Radhika403/Radhika403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
