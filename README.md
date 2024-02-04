@@ -1,7 +1,5 @@
 ### Hi there 👋
-I am Radhika (She/Her). I am currently a student pursuing BTech in Computer Science with Artificial Intelligence. 
-
-🌱 I am a tech enthusiast who is exploring and learning Python, Java, Web-Devlopment, ML and Data Science.
+I am Radhika (She/Her). I am currently a student pursuing BTech in Computer Science with Artificial Intelligence. I am a tech enthusiast who is exploring and learning Python, Java, Web-Devlopment, ML and Data Science. 🌱
 
 📫 You can reach out to me on: www.linkedin.com/in/radhika403
 
