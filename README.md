@@ -1,7 +1,8 @@
 ## Hi There! 👋
-I am Radhika (She/Her). I am currently a student pursuing B.Tech in Computer Science with Artificial Intelligence. I am a tech enthusiast who is exploring and learning Python, Java, Web-Devlopment, ML and Data Science. Currently, I am exploring opportunities to expand my knowledge and make meaningful impact. 🌱 
+I am Radhika (She/Her). I am completed B.Tech in Computer Science with Artificial Intelligence. I am a tech enthusiast who is exploring and learning Python, Java, Web-Devlopment, ML and Data Science. Currently, I am exploring opportunities to expand my knowledge and make meaningful impact. 🌱 
 
 ## About Me 🌟 
+- **Current** : SDE at Uber
 - **Recent Experiences 🔭** : I've recently completed my Software Engineering Internship at Uber. Prior to this I've also been an UberSTAR Intern at Uber and a Research Intern at IGDTUW.
 - **Activities 💼** :  I’m the Co-Founder of TakingControl, where I’m focused on helping students with their academic and professional journeys. I’ve also been the Technical Lead at Google Developer Student's Club, IGDTUW and Chief Technology Manager at Rotaract Club.
 
